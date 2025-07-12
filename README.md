@@ -7,3 +7,5 @@
 - Ask me about Music? That's what keeps me working. 
 - How to reach me: asifrahman@arizona.edu
 - Pronouns: He/him. 
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=asifrahman2003&theme=dark)](https://git.io/streak-stats)
