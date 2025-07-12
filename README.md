@@ -10,24 +10,18 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=asifrahman2003&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifrahman2003&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=asifrahman2003&show_icons=true&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifrahman2003&layout=compact&theme=tokyonight" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img align="center" src="https://streak-stats.demolab.com?user=asifrahman2003&theme=tokyonight" />
-  </a>
-</p>
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=asifrahman2003">
     <img src="https://komarev.com/ghpvc/?username=asifrahman2003&color=blue" />
+  </a>
+</p>
+
+<a href="https://www.linkedin.com/in/iamasiff._" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,python" />
   </a>
 </p>
