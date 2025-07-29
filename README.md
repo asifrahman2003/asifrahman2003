@@ -11,7 +11,7 @@ I am Asif. I love music. and code is interesting.
 ```
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=asifrahman2003&theme=dark)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=asifrahman2003&theme=highcontrast&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifrahman2003&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
