@@ -3,7 +3,7 @@
 I am Asif. I love music. and code is interesting. 
 
 ```
-- BSc in Computer Science Senior at University of Arizona. 
+- BSc in Computer Science at University of Arizona. 
 - I’m currently working on Summer projects and Research projects. 
 - I’m currently learning and working about AI in Medical Applications. 
 - reach me @: asifrahman@arizona.edu
