@@ -9,9 +9,10 @@ I am Asif. I love music. and code is interesting.
 - reach me @: asifrahman@arizona.edu
 - works are @t: https://www.iamasiff.com
 ```
-### 📈 GitHub Stats
+### GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=asifrahman2003&theme=dark)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asifrahman2003&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
