@@ -7,7 +7,7 @@ I am Asif. I love music. and code is interesting.
 - I’m currently working on Summer projects and Research projects. 
 - I’m currently learning and working about AI in Medical Applications. 
 - reach me @: asifrahman@arizona.edu
-- works are @t: https://www.iamasiff.com
+- works are @: https://www.iamasiff.com
 ```
 ### GitHub Stats
 
